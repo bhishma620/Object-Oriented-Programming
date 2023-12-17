@@ -28,7 +28,7 @@ public class Encapsulation {
 
         //printing details  by calling methods of Student class
 
-        System.out.println("STDUENT Name : " + ob.getName() +" , Age : " + ob.getAge());
+        System.out.println("STDUENT Name : " + ob.getName() +" and Age : " + ob.getAge());
 
         //using toString()
         System.out.println(ob.toString());
