@@ -7,7 +7,7 @@ class Boy{
 
 class Student extends Boy {
     void role(){
-        System.out.println("I am reading Books");
+        System.out.println("I am reading Books.");
     }
 }
 public class MethodOverriding {
