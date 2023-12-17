@@ -26,7 +26,7 @@ public class Encapsulation {
         ob.setName("Bhishma");
         ob.setAge(20);
 
-        //printing details  by calling methods of Student class
+        //printing details by calling methods of Student class
 
         System.out.println("STDUENT Name : " + ob.getName() +" and Age : " + ob.getAge());
 
